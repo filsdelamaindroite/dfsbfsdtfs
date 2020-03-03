@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1583170224 source:c:\users\benja\onedrive\documents\ing 2\informatique\bfs_et_dfs\main.cpp
+	<iostream>
+	"graphe.h"
+
+1583232371 source:c:\users\benja\onedrive\documents\ing 2\informatique\bfs_et_dfs\graphe.cpp
+	<iostream>
+	<fstream>
+	"graphe.h"
+	<string>
+
+1583169747 c:\users\benja\onedrive\documents\ing 2\informatique\bfs_et_dfs\graphe.h
+	<vector>
+	"sommet.h"
+
+1583231291 c:\users\benja\onedrive\documents\ing 2\informatique\bfs_et_dfs\sommet.h
+	<vector>
+
