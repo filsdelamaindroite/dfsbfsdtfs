@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1585410745 source:c:\users\danyr\onedrive\documents\github\dfsbfsdtfs\graphe.cpp
+	<iostream>
+	<fstream>
+	"graphe.h"
+	<string>
+	<iterator>
+
+1585410451 c:\users\danyr\onedrive\documents\github\dfsbfsdtfs\graphe.h
+	<vector>
+	"sommet.h"
+
+1585244323 c:\users\danyr\onedrive\documents\github\dfsbfsdtfs\sommet.h
+	<vector>
+
+1585409412 source:c:\users\danyr\onedrive\documents\github\dfsbfsdtfs\main.cpp
+	<iostream>
+	"graphe.h"
+
